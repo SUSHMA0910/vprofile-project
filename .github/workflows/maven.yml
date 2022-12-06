@@ -11,9 +11,7 @@ name: Java CI with Maven
 on:
   push:
     branches: [ "vp-rem" ]
-  pull_request:
-    branches: [ "vp-rem" ]
-
+  
 jobs:
   build:
 
